@@ -1,11 +1,11 @@
 # Hi, I'm Abhishek Jadhav 👋
 
-### B.E. AI & Data Science Student | Aspiring Data Analyst
+B.E. AI & Data Science Student | Aspiring Data Analyst
 
 I'm a B.E. AI & Data Science student interested in Data Analytics and
 building practical projects using data.
 
-### 🛠️ Skills
+🛠️ Skills
 
 - Excel
 - SQL
@@ -14,7 +14,7 @@ building practical projects using data.
 - Data Analysis
 - Data Visualization
 
-### 📊 Currently Learning
+📊 Currently Learning
 
 - Advanced SQL
 - Python for Data Analysis
@@ -22,14 +22,12 @@ building practical projects using data.
 - Statistics
 - Data Analytics
 
-### 🚀 Projects
 
-Coming soon...
+🎯 Career Goal
 
-### 🎯 Career Goal
+Looking for **Data Analyst / Data Analytics internship opportunities**
+where I can apply my skills and gain real-world experience.
 
-Looking for Data Analyst / Data Analytics internship opportunities.
-
-### 📫 Connect with me
+📫 Connect with me
 
 - LinkedIn: [Abhishek Jadhav](www.linkedin.com/in/abhishek-jadhav-85b5aa396)
